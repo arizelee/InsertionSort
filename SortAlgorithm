@@ -1,5 +1,6 @@
+
+//This is the child class and the sorting algorithm.
 ```
-This is the child class and the sorting algorithm.
 
 public class SortedIntList extends IntList {
     
@@ -40,4 +41,5 @@ public void add(int value){
     }
 }
 }
+
 ```
