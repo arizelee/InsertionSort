@@ -15,15 +15,17 @@ public class ListTest{
     }
 }
 ----------------------------------------
+```
 
 public class IntList {
+
     protected int[] list;
     protected int numElements = 0;
-public IntList(int size) {
+    public IntList(int size) {
     list = new int[size];
-}
+    }
 
-public void add(int value){
+    public void add(int value){
     if (numElements == list.length)
         System.out.println("Can't add, list is full");
     else {
@@ -40,4 +42,5 @@ public String toString(){
     }    
 }
 
+```
    
