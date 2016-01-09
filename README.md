@@ -2,6 +2,8 @@
 This program uses Inheritance and insertion sort to sort an array of integers.
 
 -------------------------------------------------------------------
+```
+//This is the tester class
 
 public class ListTest{
 
@@ -14,8 +16,10 @@ public class ListTest{
         System.out.println(myList);
     }
 }
+```
 ----------------------------------------
 ```
+//This is the parent class.
 
 public class IntList {
 
